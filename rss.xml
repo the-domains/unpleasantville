@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[unpleasantville]]></title>
-        <description><![CDATA[unpleasantville]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Welcome to Unpleasantville - digital record label]]></title>
+        <description><![CDATA[Welcome to Unpleasantville - digital record label]]></description>
+        <link>https://thegrid.ai/unpleasantville/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 11 Jan 2016 21:51:33 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 04 Mar 2016 19:45:51 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/unpleasantville/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9172a9cd-a919-48f3-984b-2efdabc51993.jpg">]]></description>
+            <link>https://thegrid.ai/unpleasantville/2fef9148-b6f4-4e16-a7b3-1878b5b5ea4c/index.html</link>
+            <guid isPermaLink="false">2fef9148-b6f4-4e16-a7b3-1878b5b5ea4c</guid>
+            <pubDate>Fri, 04 Mar 2016 19:45:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b565cbbe-7873-49da-ae71-c0e326525b40.jpg" alt="" title="">]]></description>
-            <link>undefined5f4e4739-d59d-4341-91b8-776acad64430/index.html</link>
+            <link>https://thegrid.ai/unpleasantville/5f4e4739-d59d-4341-91b8-776acad64430/index.html</link>
             <guid isPermaLink="false">5f4e4739-d59d-4341-91b8-776acad64430</guid>
             <pubDate>Mon, 11 Jan 2016 21:51:32 GMT</pubDate>
         </item>
