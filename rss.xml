@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[tunes, loops, noise ]]></title>
         <description><![CDATA[tunes, loops, noise ]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://www.unpleasantville.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 21 Mar 2016 08:08:28 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 21 Mar 2016 08:21:59 GMT</lastBuildDate>
+        <atom:link href="http://www.unpleasantville.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ff3e523e-faf0-4c10-9f5c-ae05f905b862.jpg">]]></description>
-            <link>undefined7917c374-b0e4-452c-a0ed-6c70f04596e0/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/74a88e8a-bca4-4ba9-97ea-e9b939f51861.jpg">]]></description>
+            <link>http://www.unpleasantville.com/7917c374-b0e4-452c-a0ed-6c70f04596e0/index.html</link>
             <guid isPermaLink="false">7917c374-b0e4-452c-a0ed-6c70f04596e0</guid>
-            <pubDate>Mon, 21 Mar 2016 08:06:51 GMT</pubDate>
+            <pubDate>Mon, 21 Mar 2016 08:21:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
